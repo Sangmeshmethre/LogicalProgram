@@ -1,0 +1,15 @@
+D:\RFP-240\LogicalPrograms\LogicalProgramUC2\LogicalProgramUC2\bin\Debug\net6.0\LogicalProgramUC2.exe
+D:\RFP-240\LogicalPrograms\LogicalProgramUC2\LogicalProgramUC2\bin\Debug\net6.0\LogicalProgramUC2.deps.json
+D:\RFP-240\LogicalPrograms\LogicalProgramUC2\LogicalProgramUC2\bin\Debug\net6.0\LogicalProgramUC2.runtimeconfig.json
+D:\RFP-240\LogicalPrograms\LogicalProgramUC2\LogicalProgramUC2\bin\Debug\net6.0\LogicalProgramUC2.dll
+D:\RFP-240\LogicalPrograms\LogicalProgramUC2\LogicalProgramUC2\bin\Debug\net6.0\LogicalProgramUC2.pdb
+D:\RFP-240\LogicalPrograms\LogicalProgramUC2\LogicalProgramUC2\obj\Debug\net6.0\LogicalProgramUC2.csproj.AssemblyReference.cache
+D:\RFP-240\LogicalPrograms\LogicalProgramUC2\LogicalProgramUC2\obj\Debug\net6.0\LogicalProgramUC2.GeneratedMSBuildEditorConfig.editorconfig
+D:\RFP-240\LogicalPrograms\LogicalProgramUC2\LogicalProgramUC2\obj\Debug\net6.0\LogicalProgramUC2.AssemblyInfoInputs.cache
+D:\RFP-240\LogicalPrograms\LogicalProgramUC2\LogicalProgramUC2\obj\Debug\net6.0\LogicalProgramUC2.AssemblyInfo.cs
+D:\RFP-240\LogicalPrograms\LogicalProgramUC2\LogicalProgramUC2\obj\Debug\net6.0\LogicalProgramUC2.csproj.CoreCompileInputs.cache
+D:\RFP-240\LogicalPrograms\LogicalProgramUC2\LogicalProgramUC2\obj\Debug\net6.0\LogicalProgramUC2.dll
+D:\RFP-240\LogicalPrograms\LogicalProgramUC2\LogicalProgramUC2\obj\Debug\net6.0\refint\LogicalProgramUC2.dll
+D:\RFP-240\LogicalPrograms\LogicalProgramUC2\LogicalProgramUC2\obj\Debug\net6.0\LogicalProgramUC2.pdb
+D:\RFP-240\LogicalPrograms\LogicalProgramUC2\LogicalProgramUC2\obj\Debug\net6.0\LogicalProgramUC2.genruntimeconfig.cache
+D:\RFP-240\LogicalPrograms\LogicalProgramUC2\LogicalProgramUC2\obj\Debug\net6.0\ref\LogicalProgramUC2.dll
